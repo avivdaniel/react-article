@@ -1,0 +1,16 @@
+.CommentList {
+    border: 1px solid  #BAB2B5;
+    margin: 10px;
+}
+
+.CommentList h3 {
+    font-family: 'Raleway', sans-serif;
+    color: #AC3B61;
+    font-size: 15px;
+    text-align: left;
+    padding: 15px;
+}
+
+.CommentList div:first-child {
+    background-color: #EDC7b7;
+}

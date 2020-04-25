@@ -1,0 +1,34 @@
+.Article {
+    margin: 20px;
+    background-color: white;
+    padding: 10px;
+}
+.Article h2 {
+    font-family: 'Raleway', sans-serif;
+    color: #AC3B61;
+    font-size: 22px;
+    text-align: left;
+    padding: 15px;
+}
+
+.Article p {
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.Article .imgContainer {
+    width: 100%;
+}
+
+.Article img {
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+    overflow: hidden;
+}
+
+.Article .titleContainer {
+    display: flex;
+    justify-content: space-between;
+}
